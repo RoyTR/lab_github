@@ -1,1 +1,1 @@
-#Aca se resolvera la primera problematica
+#Aca la primera problematica
